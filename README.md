@@ -1,8 +1,4 @@
 # Github main project
-
-Created: April 6, 2024 2:01 AM
-Class: AI
-
 ### 1. Connect with your Data
 
 ```python
